@@ -5,3 +5,4 @@
 3. **Booking:** As a guest, I want to book a room so that I have a guaranteed place to stay.
 4. **Payments:** As a guest, I want to pay online so that the check-in process is seamless.
 5. **Feedback:** As a guest, I want to leave a review so that others know about the property quality.
+   
